@@ -53,6 +53,8 @@ namespace Vetores {
                 }
             } while (resp == 's');
 
+            Console.WriteLine("Bom noite");
+
 
 
             Console.WriteLine("Update list of employees");
